@@ -1,0 +1,53 @@
+body {
+    background-color: #f3f3f3;
+}
+
+#headerRow {
+  color: #f3f3f3;
+  background-color: #27325D;
+  
+}
+
+#logo {
+  padding-left: 15px;
+  padding-top: 10px;
+
+}
+
+#navlist {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+a {
+    color: #f3f3f3;
+}
+
+h2, h3 {
+    font-family: 'Comfortaa', cursive;
+}
+
+#bodyRow, #bodyContent {
+    /* background-color: #6B9EE1; */
+}
+
+#headerText {
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.auth-image {
+    float: left;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.card {
+    background-color: #6B9EE1;
+}
+
+.card-text {
+
+}
