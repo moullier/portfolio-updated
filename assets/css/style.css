@@ -28,6 +28,10 @@ h2, h3 {
     font-family: 'Comfortaa', cursive;
 }
 
+h3 {
+    color: #27325D;
+}
+
 #bodyRow, #bodyContent {
     /* background-color: #6B9EE1; */
 }
@@ -46,8 +50,38 @@ h2, h3 {
 
 .card {
     background-color: #6B9EE1;
+    margin-top: 15px;
 }
 
-.card-text {
-
+.card-header {
+    background-color: #f3f3f3;
 }
+
+.githubLogo {
+    text-align-last: right;
+}
+
+.linkedinLogo, .githubLogo {
+    width: 32px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/* Project Styling */
+
+.figcaption {
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    background-color: #27325D;
+    color: #f3f3f3;
+    font-family: 'Comfortaa', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .work {
+    position: relative;
+    margin-bottom: 30px;
+  }
