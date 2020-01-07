@@ -84,4 +84,11 @@ h3 {
   .work {
     position: relative;
     margin-bottom: 30px;
+    width: 100%;
+  }
+
+  .portfolioimage {
+      border-style: solid;
+      border-radius: 2px;
+      border-color: #27325D;
   }
