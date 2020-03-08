@@ -24,6 +24,10 @@ a {
     color: #f3f3f3;
 }
 
+#resumeList {
+    color: #27325D;
+}
+
 h2, h3 {
     font-family: 'Comfortaa', cursive;
 }
